@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 Chown --reference=betty guillaume hello
+=======
+Chown betty hello
+>>>>>>> 5c764fb3414f9e90565a46a4d952319cd653978e
